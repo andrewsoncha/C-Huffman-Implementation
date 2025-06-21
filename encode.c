@@ -7,7 +7,7 @@
 int main(int argc, char *argv[]){
 	int freq[256];
 	if(argc<2){
-		printf("huffman [FILE_PATH]\n");
+		printf("encode [FILE_PATH]\n");
 		return -1;
 	}
 	long fileSize;
