@@ -17,4 +17,4 @@ Run the above command in the same directory as the code and enc files with the o
 The decoded code file will be created in the path `[FILE_PATH].dec`.
 
 # Test Results
-Tales of Two Cities (807.2 kb) -> Code File (1.2 kb) + Encoded File (445.5 kb) = 446.7 kb (44.7% Compression)
+A Tale of Two Cities (807.2 kb) -> Code File (1.2 kb) + Encoded File (445.5 kb) = 446.7 kb (44.7% Compression)
